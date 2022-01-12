@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+.btn{
+    margin-top: 50px;
+    font-weight: 400;
+    color: white;
+    background: salmon;
+    text-align: center;
+    vertical-align: center;
+    border: 1px solid #000000;
+    padding: 5px;
+}
+.btn:hover{
+    background: #c57033;
+}
+.show{
+    margin-top: 50px;
+    padding: 20px 30px;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
